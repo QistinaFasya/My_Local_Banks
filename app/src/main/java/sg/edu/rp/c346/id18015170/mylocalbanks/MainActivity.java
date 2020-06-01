@@ -131,14 +131,14 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         if (id == R.id.EnglishSelection) {
-            tvDBS.setText("DBS");
-            tvOCBC.setText("OCBC");
-            tvUOB.setText("UOB");
+            tvDBS.setText(R.string.dbs);
+            tvOCBC.setText(R.string.ocbc);
+            tvUOB.setText(R.string.uob);
             return true;
         } else if (id == R.id.chineseSelection) {
-            tvDBS.setText("展银行");
-            tvOCBC.setText("华侨银行");
-            tvUOB.setText("关于我们");
+            tvDBS.setText(R.string.dbsCh);
+            tvOCBC.setText(R.string.icbcCh);
+            tvUOB.setText(R.string.uobCh);
             return true;
         }
 

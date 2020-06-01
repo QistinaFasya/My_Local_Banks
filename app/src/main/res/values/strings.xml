@@ -2,4 +2,10 @@
     <string name="app_name">My Local Banks</string>
     <string name="english">English</string>
     <string name="chinese">Chinese</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="dbsCh">展银行</string>
+    <string name="icbcCh">华侨银行</string>
+    <string name="uobCh">关于我们</string>
 </resources>
